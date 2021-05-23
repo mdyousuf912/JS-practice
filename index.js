@@ -10,9 +10,3 @@ else{
 }
 
 
-// function add(d, e){
-//     var sum= d+e;
-//     console.log('sum is ' +sum)
-// }
-
-// add(9,9);
