@@ -1,5 +1,8 @@
 var a = 3;
-console.log(a)
+var x;
+var y= '2';
+var z= true;
+console.log(a,x,y,z, typeof(a,x,y,z))
 
 var b=2, c=3;
 if( b> c){
