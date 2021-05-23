@@ -9,4 +9,13 @@ else{
     console.log(c)
 }
 
+function add(d,e){
+
+    var sum = d+e;
+    console.log('the sum is '+sum)
+}
+
+add(9,9);
+add(1,62);
+
 
