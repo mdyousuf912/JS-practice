@@ -1,18 +1,21 @@
 var a = 3;
-console.log(a)
+var x;
+var y= '2';
+var z= true;
+console.log(a, x,y,z, typeof(a,x,y,z))
 
 var b=2, c=3;
 if( b> c){
-    console.log(b)
+    console.log(b, typeof(b))
 }
 else{
-    console.log(c)
+    console.log(c, typeof(c))
 }
 
 function add(d,e){
 
     var sum = d+e;
-    console.log('the sum is '+sum)
+    console.log('the sum is '+sum, typeof(sum))
 }
 
 add(9,9);
